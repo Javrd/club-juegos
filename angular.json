@@ -45,8 +45,7 @@
                   "maximumError": "4kB"
                 }
               ],
-              "outputHashing": "all",
-              "baseHref": "club-juegos"
+              "outputHashing": "all"
             },
             "development": {
               "optimization": false,
